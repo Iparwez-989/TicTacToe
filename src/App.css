@@ -27,6 +27,7 @@
     margin-top: 20px;
     font-size: 22px;
 }
+/*=========Using Media query===============  */
 @media(max-width:500px) {
     .reset{
         background-color: red;
